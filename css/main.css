@@ -1578,6 +1578,14 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 
+@media (max-width: 13000px) {
+  .portfolio-item-img{
+     height: 150px;
+     width: 240px;
+  }
+}
+
+
 .portfolio-grid figure .portfolio-item-img:after {
   content: '';
   position: absolute;
